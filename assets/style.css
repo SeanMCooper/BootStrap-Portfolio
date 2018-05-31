@@ -1,0 +1,101 @@
+.sean-block { display: block; width: 100%; background-color: aqua;
+
+}
+
+
+.seanflow {
+    overflow: hidden;
+}
+
+.bodywidth {
+    width: 960px; padding: 20px 40px 20px 40px; margin:auto; border: 2px solid #dddddd; clear: both; background-color: white;
+}
+
+
+.bodywidthportfolio {
+    width: 960px; height: 850px; padding: 20px 40px 20px 40px; margin:auto; border: 2px solid #dddddd; clear: both; background-color: white;
+}
+.formcontact {
+    margin-top: 40px; border: lightgrey 2px; display: block;
+}
+
+
+.name-box  {font-size: 28px; color:white; font-weight: bolder;
+    background-color: #4aaaa5; 
+    float: left; padding: 20px 40px 20px 40px;}
+
+body {
+    height: 100%; background-image: url("../assets/images/backdrop.png");
+}
+
+html {
+    height: 100%;
+}
+
+#push           {height: 90px;}
+
+.wrapper        {min-height: 100%; margin-bottom: -90px;}
+
+.lead {
+ position: relative; font:'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+}
+
+#content        {width: 956px; margin-top: 40px;
+    background-color: white; 
+    display: block; clear: both;}
+
+.body-dimension {width: 956px; margin-top: 40px;
+        background-color: white; 
+        display: block; clear: both;}
+
+
+#spacer-top {
+    height: 40px; margin: 20px;
+}
+.contentindex {width: 956px; margin-top: 40px;
+        display: block; clear: both;}
+
+
+.squeeze        {width: 960px; padding: 0px 0px 0px 0px; align-content: center; }
+
+
+.backdrop {
+    height: 100%; z-index: -1; overflow: hidden; position: absolute; background-image: url(/assets/images/backdrop.png);
+}
+
+.border-bot {
+    border-bottom: 3px solid #cccccc; margin-bottom: 40px;
+}
+
+.remove-pad {
+    padding: 0px 0px 0px 0px;
+}
+
+.h1 
+    {font-size: 36px; color:white; font-weight: bolder;
+    background-color: #4aaaa5; 
+    float: left; padding: 20px 40px 20px 40px; margin-left: 20px;}
+
+h2 {
+    font-size: 32px; float: left; font-weight: bolder;
+    padding: 10px; width: 860px; clear: both;
+    color: teal; margin-bottom: 5px; align-content: center;
+} 
+
+.img-set {
+    margin: 0px 20px 0px 20px; float: left; 
+}
+
+
+.textblock {
+    display: block; width: 288px; height: 50px; background-color: #4aaaa5; top: -80px;
+    color: white; text-align: center; line-height: 0px; font:'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+    z-index: 1; position: relative;
+}
+
+
+footer  {
+    display: block; background-color: dimgray; border-top: #4aaaa5 solid 5px;
+    text-align: center; color: white; padding: 10px 20px 10px 20px; font-size: 10px; height: 100%;
+        }
+
