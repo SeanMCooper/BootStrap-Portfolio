@@ -104,6 +104,7 @@ h2 {
 .footer  {
     display: block; background-color: dimgray; border-top: #4aaaa5 solid 5px;
     text-align: center; color: white; padding: 10px 20px 10px 20px; font-size: 10px; height: 5%;
+    margin-top: 5%;
         }
 
 .NAVBAR-PLEASE-WORK {
